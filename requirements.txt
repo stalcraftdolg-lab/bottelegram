@@ -1,0 +1,5 @@
+pyrogram
+aiogram
+aiohttp-socks
+python-dotenv
+tgcrypto
